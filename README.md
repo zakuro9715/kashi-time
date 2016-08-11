@@ -1,6 +1,6 @@
 # kashi-time
 
-Fetch lirycs from kashi-time(http://www.kashi-time.com)
+Fetch lyrics from [kashi-time](http://www.kashi-time.com)
 
 ```
 $ kashi-time
@@ -27,7 +27,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # kashi-time
 
-歌詞タイム(http://www.kashi-time.com)から歌詞を取得します
+[歌詞タイム](http://www.kashi-time.com)から歌詞を取得します
 
 ```
 $ kashi-time
