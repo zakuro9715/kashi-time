@@ -2,6 +2,12 @@
 
 Fetch lyrics from [kashi-time](http://www.kashi-time.com)
 
+## Setup
+
+Download binary from [the release page](https://github.com/zakuro9715/kashi-time/releases/tag/v0.1.0)
+
+## Usage
+
 ```
 $ kashi-time
 Usage kashi-time [urls]
@@ -26,6 +32,12 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 ```
 
 # kashi-time
+
+## 準備
+
+[リリースページ](https://github.com/zakuro9715/kashi-time/releases/tag/v0.1.0) からダウンロードしてください
+
+## 使い方
 
 [歌詞タイム](http://www.kashi-time.com)から歌詞を取得します
 
